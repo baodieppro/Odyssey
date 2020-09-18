@@ -4,35 +4,35 @@
 <array>
 	<dict>
 		<key>Name</key>
-		<string>Google</string>
+		<string>Onbibi</string>
 		<key>Identifier</key>
-		<string>com.google.www</string>
+		<string>com.onbibi</string>
 		<key>URLTemplate</key>
-		<string>https://www.google.com/search?client=safari&amp;rls=en&amp;q={searchTerms}&amp;ie=UTF-8&amp;oe=UTF-8</string>
+		<string>https://onbibi.com/search?q={searchTerms}</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>DuckDuckGo</string>
+		<string>Onbibi</string>
 		<key>Identifier</key>
-		<string>com.duckduckgo</string>
+		<string>com.onbibi</string>
 		<key>URLTemplate</key>
-		<string>https://duckduckgo.com/?q={searchTerms}&amp;t=osx</string>
+		<string>https://onbibi.com/search?q={searchTerms}</string>
 	</dict>
 	<dict>
 		<key>Name</key>
 		<string>Bing</string>
 		<key>Identifier</key>
-		<string>com.bing.www</string>
+		<string>com.onbibi</string>
 		<key>URLTemplate</key>
-		<string>https://www.bing.com/search?q={searchTerms}</string>
+		<string>https://onbibi.com/search?q={searchTerms}</string>
 	</dict>
 	<dict>
 		<key>Name</key>
-		<string>Yahoo</string>
+		<string>Onbibi</string>
 		<key>Identifier</key>
-		<string>com.yahoo.search</string>
+		<string>com.onbibi</string>
 		<key>URLTemplate</key>
-		<string>https://search.yahoo.com/search?ei=utf-8&amp;fr=aaplw&amp;p={searchTerms}</string>
+		<string>https://onbibi.com/search?q={searchTerms}</string>
 	</dict>
 </array>
 </plist>
