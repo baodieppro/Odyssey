@@ -188,7 +188,7 @@
 	<key>NSDisablePersistence</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2017 home. All rights reserved.</string>
+	<string>Copyright © 2020 Onbibi Browser. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
