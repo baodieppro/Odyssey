@@ -10,29 +10,5 @@
 		<key>URLTemplate</key>
 		<string>https://onbibi.com/search?q={searchTerms}</string>
 	</dict>
-	<dict>
-		<key>Name</key>
-		<string>Onbibi</string>
-		<key>Identifier</key>
-		<string>com.onbibi</string>
-		<key>URLTemplate</key>
-		<string>https://onbibi.com/search?q={searchTerms}</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>Bing</string>
-		<key>Identifier</key>
-		<string>com.onbibi</string>
-		<key>URLTemplate</key>
-		<string>https://onbibi.com/search?q={searchTerms}</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>Onbibi</string>
-		<key>Identifier</key>
-		<string>com.onbibi</string>
-		<key>URLTemplate</key>
-		<string>https://onbibi.com/search?q={searchTerms}</string>
-	</dict>
 </array>
 </plist>
